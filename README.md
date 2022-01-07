@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TrevorMcSharry
+- 🌱 I’m currently learning C++ and Data Structures
+- 📫 How to reach me: tmcsharr@vols.utk.edu
